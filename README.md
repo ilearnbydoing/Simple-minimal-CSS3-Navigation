@@ -1,4 +1,4 @@
-Simple-minimal-CSS3-Navigation
+Simple Minimal CSS3 Navigation
 ==============================
 
 With the help of two files so called css3-menu.html and css3-navigation.css and ofcourse the addon image file pattern.png
