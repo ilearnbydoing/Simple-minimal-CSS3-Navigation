@@ -1,3 +1,15 @@
+/*-----------------------------------------------------------------------------------
+
+Project Name: Simple Minimal CSS3 Navigation
+Tutorial Website URI: www.w3update.com
+Description:Sterling is a Responsive Wordpress Theme with a multitude of amazing CMS features.
+Author: w3update.com
+Author URI:http://www.w3update.com
+Version:1
+License:GNU General Public License
+License URI:license.txt
+*/
+
 /* The main container */
 .nav {
   /* Layout & positioning */
@@ -10,7 +22,7 @@
 	list-style: none;
 
 	/* Background */
-	background: #12bb56;
+	background: #0595c4;
 }
 
 .nav>li {
@@ -138,7 +150,7 @@
 	font-family: Helvetica, Arial, sans-serif;
 	font-size: 12px;
 	text-decoration: none;
-	color: #12bb56;
+	color: #0595c4;
 
 	/* Effects */
 	-webkit-transition: all .2s;
@@ -149,7 +161,7 @@
 
 /* The hover state of the submenu links */
 .nav ul li a:hover, .nav ul li:hover>a {
-	background: #12bb56;
+	background: #0595c4;
 	color: #fff;
 }
 
@@ -161,7 +173,7 @@
 	 right: 8px;
 	 width: 1px;
 	 height: 5px;
-	 background: #12bb56;
+	 background: #0595c4;
 }
 
 .nav ul>.dropdown>a::before {
@@ -171,7 +183,7 @@
 	 right: 6px;
 	 width: 5px;
 	 height: 1px;
-	 background: #12bb56;
+	 background: #0595c4;
 }
 
 .nav ul>.dropdown:hover>a::after {
